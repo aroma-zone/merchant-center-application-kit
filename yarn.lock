@@ -3680,7 +3680,7 @@ __metadata:
     eslint-formatter-pretty: 4.1.0
     eslint-plugin-graphql: ^4.0.0
     formik: 2.2.9
-    graphql: ^16.6.0
+    graphql: ^16.8.1
     graphql-tag: ^2.12.6
     jest: 27.5.1
     jest-runner-eslint: 1.2.0
@@ -3750,7 +3750,7 @@ __metadata:
     eslint: 8.36.0
     eslint-formatter-pretty: 4.1.0
     formik: 2.2.9
-    graphql: ^16.6.0
+    graphql: ^16.8.1
     graphql-tag: ^2.12.6
     jest: 27.5.1
     jest-runner-eslint: 1.2.0
@@ -4094,7 +4094,7 @@ __metadata:
     "@types/lodash": ^4.14.191
     "@types/prop-types": ^15.7.5
     "@types/react": ^17.0.53
-    graphql: 16.6.0
+    graphql: 16.8.1
     lodash: 4.17.21
     moment-timezone: ^0.5.40
     prop-types: 15.8.1
@@ -4168,7 +4168,7 @@ __metadata:
     debounce-async: 0.0.2
     downshift: 6.1.12
     fuse.js: 6.6.2
-    graphql: 16.6.0
+    graphql: 16.8.1
     history: 4.10.1
     is-retina: 1.0.3
     jwt-decode: 3.1.2
@@ -4512,7 +4512,7 @@ __metadata:
     dotenv: 16.0.3
     dotenv-expand: 8.0.3
     fs-extra: 10.1.0
-    graphql: 16.6.0
+    graphql: 16.8.1
     graphql-request: 5.2.0
     graphql-tag: ^2.12.6
     html-webpack-plugin: 5.5.0
@@ -22995,7 +22995,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:16.6.0, graphql@npm:^15.0.0 || ^16.0.0, graphql@npm:^16.6.0":
+"graphql@npm:16.8.1, graphql@npm:^16.8.1":
+  version: 16.8.1
+  resolution: "graphql@npm:16.8.1"
+  checksum: 8d304b7b6f708c8c5cc164b06e92467dfe36aff6d4f2cf31dd19c4c2905a0e7b89edac4b7e225871131fd24e21460836b369de0c06532644d15b461d55b1ccc0
+  languageName: node
+  linkType: hard
+
+"graphql@npm:^15.0.0 || ^16.0.0, graphql@npm:^16.6.0":
   version: 16.6.0
   resolution: "graphql@npm:16.6.0"
   checksum: bf1d9e3c1938ce3c1a81e909bd3ead1ae4707c577f91cff1ca2eca474bfbc7873d5d7b942e1e9777ff5a8304421dba57a4b76d7a29eb19de8711cb70e3c2415e
@@ -28164,7 +28171,7 @@ __metadata:
     eslint: 8.36.0
     eslint-formatter-pretty: 4.1.0
     eslint-plugin-graphql: ^4.0.0
-    graphql: 16.6.0
+    graphql: 16.8.1
     husky: 7.0.4
     jest: 27.5.1
     jest-each: 27.5.1
