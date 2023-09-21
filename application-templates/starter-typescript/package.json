@@ -75,7 +75,7 @@
     "eslint-formatter-pretty": "4.1.0",
     "eslint-plugin-graphql": "^4.0.0",
     "formik": "2.2.9",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "jest": "27.5.1",
     "jest-runner-eslint": "1.2.0",
